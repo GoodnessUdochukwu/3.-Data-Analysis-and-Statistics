@@ -1,4 +1,4 @@
-# 3.-Data-Analysis-and-Statistics
+# Data-Analysis-and-Statistics
 
 This repository contains notebooks which covers a comprehensive overview of statistical methods in data analysis using numpy and scipy. The files as described below:
 
