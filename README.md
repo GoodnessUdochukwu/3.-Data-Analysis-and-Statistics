@@ -1,6 +1,6 @@
 # Data-Analysis-and-Statistics
 
-This repository contains notebooks which covers a comprehensive overview of statistical methods in data analysis using numpy and scipy. The files as described below:
+This repository contains notebooks which covers a comprehensive overview of statistical methods in data analysis using numpy, scipy, and statsmodel. The files as described below:
 
 1. central_limit_theorem: simulating the normal distribution, simulating the central limit theorem.
                       
